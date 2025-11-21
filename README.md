@@ -5,6 +5,8 @@ This project deploys a fully functional **WordPress application** on **Amazon EC
 The entire deployment runs inside a **custom VPC with public subnets only**, as per requirement.
 
 ---
+**Architecture Diagram:**
+ ![Architecture Diagram](TASK4%20ECS%20Fargate%20(1).png)
 
 ## **Architecture Overview**
 
@@ -22,8 +24,8 @@ The entire deployment runs inside a **custom VPC with public subnets only**, as 
 * Terraform S3 Backend
 * Modular Terraform folder structure
 
-**Architecture Diagram:**
- *TASK4 ECS Fargate (1).png*
+
+
 
 ---
 
